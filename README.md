@@ -1,2 +1,3 @@
 Правка
 registration branch
+authorization_component
